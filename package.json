@@ -1,0 +1,22 @@
+{
+  "name": "bootcamp_ass1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hameedahakaande/bootcamp_ass1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hameedahakaande/bootcamp_ass1/issues"
+  },
+  "homepage": "https://github.com/hameedahakaande/bootcamp_ass1#readme"
+}
